@@ -1,7 +1,7 @@
 
 
 ## Introduction
-This is an adapted version of original mmaction2 and with reference to this repo[GitHub Pages]([https://pages.github.com/](https://github.com/Whiffe/mmaction2_YF)).
+This is an adapted version of original mmaction2 and with reference to this repo [GitHub Pages](https://github.com/Whiffe/mmaction2_YF)
 Original version by default use faster rcnn and I try to use YOLOv3 for the action recognition due to faster classification.
 The result can be found on demo folder. Video demoOut.MP4 is the output of a sample video showing 2 people doing arm wrestling. The model is able to locate the people and produce the prediction of actions. However, the prediction is not very accurate. Suspect the activity arm wrestling is not inside the pretrained model.
 
