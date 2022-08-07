@@ -1,7 +1,7 @@
 
 
 ## Introduction
-This is an adapted version of original mmaction2 [GiHub Pages](https://github.com/open-mmlab/mmaction2) and with reference to this repo [GitHub Pages](https://github.com/Whiffe/mmaction2_YF).
+This is an adapted version of original [mmaction2](https://github.com/open-mmlab/mmaction2) and with reference to this repo [GitHub Pages](https://github.com/Whiffe/mmaction2_YF).
 
 Original version by default use faster rcnn and I try to use YOLOv3 for the action recognition due to faster classification.
 
