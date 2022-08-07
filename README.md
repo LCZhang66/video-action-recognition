@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/open-mmlab/mmaction2/raw/master/resources/mmaction2_logo.png" width="500"/>
-</div>
+
 
 ## Introduction
 This is an adapted version of original mmaction2. Original version by default use faster rcnn and I try to use YOLOv3 for the action recognition due to faster classification.
@@ -14,20 +12,5 @@ python demo/demo_spatiotemporal_det.py --config configs/detection/ava/slowfast_k
 MMAction2 is an open-source toolbox for video understanding based on PyTorch.
 It is a part of the [OpenMMLab](http://openmmlab.org/) project.
 
-The master branch works with **PyTorch 1.3+**.
 
-<div align="center">
-  <div style="float:left;margin-right:10px;">
-  <img src="https://github.com/open-mmlab/mmaction2/raw/master/resources/mmaction2_overview.gif" width="380px"><br>
-    <p style="font-size:1.5vw;">Action Recognition Results on Kinetics-400</p>
-  </div>
-  <div style="float:right;margin-right:0px;">
-  <img src="https://user-images.githubusercontent.com/34324155/123989146-2ecae680-d9fb-11eb-916b-b9db5563a9e5.gif" width="380px"><br>
-    <p style="font-size:1.5vw;">Skeleton-base Action Recognition Results on NTU-RGB+D-120</p>
-  </div>
-</div>
-<div align="center">
-  <img src="https://github.com/open-mmlab/mmaction2/raw/master/resources/spatio-temporal-det.gif" width="800px"/><br>
-    <p style="font-size:1.5vw;">Spatio-Temporal Action Detection Results on AVA-2.1</p>
-</div>
 
